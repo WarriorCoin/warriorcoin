@@ -1,4 +1,4 @@
 obj/version.o: version.cpp version.h \
- /home/mozzarella/Desktop/wc_github/warriorcoin/src/obj/build.h
+ /home/mozzarella/Desktop/wc_github/src/obj/build.h
 version.cpp version.h :
- /home/mozzarella/Desktop/wc_github/warriorcoin/src/obj/build.h :
+ /home/mozzarella/Desktop/wc_github/src/obj/build.h :
